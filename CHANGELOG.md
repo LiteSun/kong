@@ -1,6 +1,7 @@
 # Table of Contents
 
 
+- [2.2.0-alpha.1](#220-alpha1)
 - [2.1.3](#213)
 - [2.1.2](#212)
 - [2.1.1](#211)
@@ -46,6 +47,30 @@
 - [0.10.1](#0101---20170327)
 - [0.10.0](#0100---20170307)
 - [0.9.9 and prior](#099---20170202)
+
+
+## [2.2.0-alpha.1]
+
+> Released 2020/09/04
+
+<<< TODO Introduction, plus any sections below >>>
+
+### Fixes
+
+##### Core
+
+##### CLI
+
+##### Configuration
+
+##### Admin API
+
+##### PDK
+
+##### Plugins
+
+
+[Back to TOC](#table-of-contents)
 
 
 ## [2.1.3]
@@ -5327,6 +5352,7 @@ First version running with Cassandra.
 
 [Back to TOC](#table-of-contents)
 
+[2.2.0-alpha.1]: https://github.com/Kong/kong/compare/2.1.3...2.2.0-alpha.1
 [2.1.3]: https://github.com/Kong/kong/compare/2.1.2...2.1.3
 [2.1.2]: https://github.com/Kong/kong/compare/2.1.1...2.1.2
 [2.1.1]: https://github.com/Kong/kong/compare/2.1.0...2.1.1
